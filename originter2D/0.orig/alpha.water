@@ -39,10 +39,7 @@ boundaryField
 
     walls
     {
-        type           constantAlphaContactAngle;
-        theta0         70.3;
-        limit          gradient;
-        value          uniform 0;
+        type           zeroGradient;
     }
 
     frontAndBack
