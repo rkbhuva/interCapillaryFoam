@@ -1,1 +1,1 @@
-# interCapill
+# interCapillaryFoam
