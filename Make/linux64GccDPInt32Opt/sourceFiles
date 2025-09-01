@@ -1,0 +1,8 @@
+SOURCE = \
+capillaryModel/brooksCorey.C \
+capillaryModel/leverett.C \
+capillaryModel/vanGenuchten.C \
+capillaryModel/capillaryTransportModelBase.C \
+interCapillaryFoam.C \
+
+# sources

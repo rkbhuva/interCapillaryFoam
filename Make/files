@@ -1,0 +1,7 @@
+capillaryModel/brooksCorey.C
+capillaryModel/leverett.C
+capillaryModel/vanGenuchten.C
+capillaryModel/capillaryTransportModelBase.C
+interCapillaryFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/interCapillaryFoam
